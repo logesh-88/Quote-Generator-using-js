@@ -1,1 +1,1 @@
-# Quote-Generator-using-js
+# Quotes-Generator-Frontend
